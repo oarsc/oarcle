@@ -1,0 +1,37 @@
+# Ignore build directory
+/build/
+/build_win/
+
+# Ignore CMake generated files
+CMakeFiles/
+
+# Ignore Visual Studio files
+*.VC.db
+*.VC.opendb
+.vscode/settings.json
+
+# Ignore generated binary files
+*.exe
+*.out
+*.app
+*.log
+*.obj
+*.o
+*.a
+*.lib
+*.so
+*.dylib
+*.dll
+*.exp
+*.pdb
+*.ilk
+*.idb
+
+# Ignore OS-specific files
+.DS_Store
+Thumbs.db
+
+# Ignore Editor-specific files
+*.swp
+*~
+*.swo
